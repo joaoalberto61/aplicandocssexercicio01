@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: azure;
+}
+
+p {
+    font-family: Verdana;
+    font-size: medium;
+    color: rgb(19, 18, 18);
+}
+
+h1 {
+    font-family: Tahoma;
+    font-size: large;
+    color: blue;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: large;
+    color: brown;
+}
